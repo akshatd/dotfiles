@@ -111,7 +111,7 @@ export SSH_KEY_PATH="~/.ssh/rsa_id"
 alias rm="rm -v"
 alias cp="cp -v"
 alias mv="mv -v"
-alias fucking=sudo
+alias pls=sudo
 
 # so that prompt doesnt display user name
 export DEFAULT_USER=$USER
