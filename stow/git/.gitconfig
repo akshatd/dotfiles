@@ -1,3 +1,9 @@
 [user]
 	name = Akshat Dubey
 	email = akshatdubey@outlook.com
+
+[rerere]
+	enabled = true
+
+[includeIf "gitdir:~/werk/"]
+    path = ~/werk/.gitconfig
